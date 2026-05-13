@@ -18,7 +18,7 @@ class LeafNode(HTMLNode):
             f"</{self.tag}>"
         )
 
-    def __repr__(self):
+    def __repr__(self):    #print
         return (
             f"LeafNode("
             f"tag={self.tag}, "
