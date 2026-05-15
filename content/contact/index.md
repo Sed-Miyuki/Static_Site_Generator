@@ -2,5 +2,7 @@
 
 Want to get in touch?
 
-- Email: test@example.com
-- GitHub: github.com/example
+- GitHub: https://github.com/Sed-Miyuki
+- Email: Vianviceroy007@gmail.com
+
+May chaos take the world.
